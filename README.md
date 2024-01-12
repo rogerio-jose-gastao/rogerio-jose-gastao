@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 Estou sempre em busca de **melhorias**
+ 🔭 A ciência que supera a **ficção**
  
  🌱 Estou constantemente aprendendo sobre **IA, IOT, DS**
 
