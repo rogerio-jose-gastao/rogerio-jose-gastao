@@ -56,21 +56,10 @@
 
 <h2 align="center">⚡ Status ⚡</h2>
 <br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=rogerio-jose-gastao&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-rogerio-jose-gastao.vercel.app/api?username=rogerio-jose-gastao&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-rogerio-jose-gastao.vercel.app/api/top-langs/?username=rogerio-jose-gastao&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rogerio-jose-gastao&show_icons=true&count_private=true&hide_border=true&title_color=7F00FF&icon_color=7F00FF&text_color=c9d1d9&bg_color=0d1117" alt="rogerio-jose-gastao github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogerio-jose-gastao&layout=compact&hide_border=true&title_color=7F00FF&text_color=7F00FF&bg_color=0d1117" />
 </div>
 
 <br/><br/>
 
-<hr/>
-
-<br/>
-
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
-
-<br/>
