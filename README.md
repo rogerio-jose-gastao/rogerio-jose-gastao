@@ -14,7 +14,7 @@
  
  🌱 Estou constantemente aprendendo sobre **IA, IOT, DS**
 
-💬 Entre em contacto por Deus ou qualquer assunto realmente edificador... [here](https://github.com/rogerio-jose-gastao/rogerio-jose-gastao/issues)**
+💬 Entre em contacto por Deus, ciência ou qualquer assunto realmente edificador... [here](https://github.com/rogerio-jose-gastao/rogerio-jose-gastao/issues)**
 
 ⚡Hebreus 11-1: **A fé é a certeza daquilo que esperamos e a prova das coisas que não vemos.**
 
