@@ -12,7 +12,7 @@
  
  🔭 Estou sempre em busca de **melhorias**
  
- 🌱 I’m currently learning **IA, IOT, DS**
+ 🌱 Estou constantemente aprendendo sobre **IA, IOT, DS**
 
 💬 Entre em contacto por Deus ou qualquer assunto realmente edificador... [here](https://github.com/rogerio-jose-gastao/rogerio-jose-gastao/issues)**
 
