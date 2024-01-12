@@ -14,7 +14,7 @@
  
  🌱 Estou constantemente aprendendo sobre **IA, IOT, DS**
 
-💬 Entre em contacto por Deus, ciência ou qualquer assunto realmente edificador... [here](https://github.com/rogerio-jose-gastao/rogerio-jose-gastao/issues)**
+💬 Entre em contacto por Deus, ciência ou qualquer assunto realmente edificante... [here](https://github.com/rogerio-jose-gastao/rogerio-jose-gastao/issues)**
 
 ⚡Hebreus 11-1: **A fé é a certeza daquilo que esperamos e a prova das coisas que não vemos.**
 
@@ -38,7 +38,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=flutter,bootstrap,dart,html,markdown,django,bun,css,vscode,github,figma,matlab,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,docker,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
 </div>
 
 <br/>
