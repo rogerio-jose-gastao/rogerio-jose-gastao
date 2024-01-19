@@ -59,6 +59,8 @@
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rogerio-jose-gastao&show_icons=true&count_private=true&hide_border=true&title_color=7F00FF&icon_color=7F00FF&text_color=c9d1d9&bg_color=0d1117" alt="rogerio-jose-gastao github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogerio-jose-gastao&layout=compact&hide_border=true&title_color=7F00FF&text_color=7F00FF&bg_color=0d1117" />
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rogerio-jose-gastao" alt="rogerio-jose-gastao" /></a> </p>
 </div>
 
 <br/><br/>
