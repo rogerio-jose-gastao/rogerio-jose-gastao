@@ -60,7 +60,7 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rogerio-jose-gastao&layout=compact&hide_border=true&title_color=7F00FF&text_color=7F00FF&bg_color=0d1117" alt="rogerio-jose-gastao github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogerio-jose-gastao&layout=compact&hide_border=true&title_color=7F00FF&text_color=7F00FF&bg_color=0d1117" />
 <hr>
-<a href="https://github.com/rogerio-jose-gastao/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
+<a href="https://github.com/rogerio-jose-gastao/github-profile-trophy"><h2>🏆 Trofeus do Github 🏆</h2></a>
 
 <a align="center" href="https://github.com/rogerio-jose-gastao/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=rogerio-jose-gastao&column=9&theme=gruvbox&no-frame=true"/>
