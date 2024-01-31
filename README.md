@@ -62,7 +62,7 @@
 <hr>
 <a href="https://github.com/rogerio-jose-gastao/github-profile-trophy"><h2>🏆 Trofeus do Github 🏆</h2></a>
 
-<a align="center" href="https://github.com/rogerio-jose-gastao/github-profile-trophy">
+<a align="center" src="href=https://github-profile-trophy.vercel.app/?username=rogerio-jose-gastao">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=rogerio-jose-gastao&column=9&theme=gruvbox&no-frame=true"/>
 </a>
 </div>
