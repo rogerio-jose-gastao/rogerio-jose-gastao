@@ -47,7 +47,7 @@
 <div align="center">
   <h2>🌟 Minhas Contribuições 🌟</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/rogerio-jose-gastao/rogerio-jose-gastao/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com//output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
