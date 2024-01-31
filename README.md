@@ -57,13 +57,13 @@
 <h2 align="center">⚡ Status ⚡</h2>
 <br>
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rogerio-jose-gastao&layout=compact&hide_border=true&title_color=7F00FF&text_color=7F00FF&bg_color=0d1117" alt="rogerio-jose-gastao github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogerio-jose-gastao&layout=compact&hide_border=true&title_color=7F00FF&text_color=7F00FF&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rogerio-jose-gastao&bg_color=0d1117&hide_border=true&text_color=fff" alt="rogerio-jose-gastao github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogerio-jose-gastao&bg_color=0d1117&hide_border=true&title_color=7F00FF&text_color=fff&font_size=50px" />
 <hr>
 <a href="https://github.com/rogerio-jose-gastao/github-profile-trophy"><h2>🏆 Trofeus do Github 🏆</h2></a>
 
-<a align="center" src="href=https://github-profile-trophy.vercel.app/?username=rogerio-jose-gastao">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=rogerio-jose-gastao"/>
+<a align="center" src="href=https://github-profile-trophy.vercel.app/?username=rogerio-jose-gastao&bg_color=0d1117&hide_border=true">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=rogerio-jose-gastao&bg_color=0d1117&hide_border=true"/>
 </a>
 </div>
 
