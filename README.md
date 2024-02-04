@@ -54,9 +54,9 @@
 
 <hr/>
 
-<h2 align="center">⚡ Status ⚡</h2>
+<h2 align="center">⚡ Top Languages ⚡</h2>
 <br>
-https://github-readme-stats.vercel.app/api/top-langs/?username=Tsiangana&layout=donut
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tsiangana&layout=donut">
 <hr>
 <a href="https://github.com/rogerio-jose-gastao/github-profile-trophy"><h2>🏆 Trofeus do Github 🏆</h2></a>
 
