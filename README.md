@@ -56,7 +56,7 @@
 
 <h2 align="center">⚡ Top Languages ⚡</h2>
 <br>
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogerio-jose-gastao/&layout=donut">
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogerio-jose-gastao&layout=donut">
 <hr>
 <a href="https://github.com/rogerio-jose-gastao/github-profile-trophy"><h2>🏆 Trofeus do Github 🏆</h2></a>
 
