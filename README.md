@@ -12,7 +12,7 @@
  
  🔭 A ciência que supera a **ficção**
  
- 🌱 Estou constantemente aprendendo sobre **IA, IOT, DS**
+ 🌱 Estou constantemente aprendendo sobre **IA, Web Development, Data Science e mais**
 
 
 ⚡Hebreus 11-1: **A fé é a certeza daquilo que esperamos e a prova das coisas que não vemos.**
