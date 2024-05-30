@@ -32,17 +32,6 @@
 </div>
 
  <hr/>
- 
-<h2 align="center">⚒️ Languagens-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=flutter,bootstrap,dart,html,sass,markdown,django,bun,css,vscode,github,figma,matlab,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,react, typescript,docker,php,c,java,nextjs,kotlin,flask,vite" />
-   
-</div>
-
-<br/>
-<hr/>
 
 <div align="center">
   <h2>🌟 Minhas Contribuições 🌟</h2>
