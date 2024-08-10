@@ -122,25 +122,25 @@
 				width="49%"
 				alt="Github stats"
 				loading="eager"
-				src="https://github-readme-stats.vercel.app/api?username=Alexdelia&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"
+				src="https://github-readme-stats.vercel.app/api?username=rogerio-jose-gastao&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"
 			/>
 			<img align="center"
 				width="49%"
 				alt="commit stats"
 				loading="eager"
-				src="https://github-readme-streak-stats.herokuapp.com?user=Alexdelia&theme=radical&date_format=j%20M%5B%20Y%5D&hide_border=true"
+				src="https://github-readme-streak-stats.herokuapp.com?user=rogerio-jose-gastao&theme=radical&date_format=j%20M%5B%20Y%5D&hide_border=true"
 			/>
 		</p>
 		<p align="center">
 			<img align="center"
 				width="49%"
 				alt="metrics achievements"
-				src="https://github.com/Alexdelia/Alexdelia/blob/main/metrics.plugin.achievements.svg?raw=true"
+				src="https://github.com/rogerio-jose-gastao/rogerio-jose-gastao/blob/main/metrics.plugin.achievements.svg?raw=true"
 			/>
 			<img align="center"
 				width="49%"
 				alt="metrics stats"
-				src="https://github.com/Alexdelia/Alexdelia/blob/main/metrics.plugin.lines.svg?raw=true"
+				src="https://github.com/rogerio-jose-gastao/rogerio-jose-gastao/blob/main/metrics.plugin.lines.svg?raw=true"
 			/>
 		</p>
 	</details>
