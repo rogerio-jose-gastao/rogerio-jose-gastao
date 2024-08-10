@@ -1,5 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rogerio-jose-gastaorogerio-jose-gastao" />
-<a href="https://wakatime.com/@cb497d9b-0d5f-4c4c-ada7-d2b703993da8"><img src="https://wakatime.com/badge/user/cb497d9b-0d5f-4c4c-ada7-d2b703993da8.svg" alt="Total time coded since Aug 10 2024" /></a>
+<img align="left" src="[https://visitor-badge.laobi.icu/badge?page_id=rogerio-jose-gastaorogerio-jose-gastao](https://wakatime.com/badge/user/cb497d9b-0d5f-4c4c-ada7-d2b703993da8.svg)" />
+
 
 
 <h1 align="center">
