@@ -68,7 +68,7 @@
 		<br />
 		<!-- wakatime activity
 		<!-- last year -->
-		<a align="center" href="https://wakatime.com/@Alexdelia">
+		<a align="center" href="https://wakatime.com/@rogerio-jose-gastao">
 			<h>wakatime activity</h>
 			<br/>
 			<img align="center"
@@ -81,7 +81,7 @@
 		<!--
 		<a align="center" href="https://wakatime.com/@Alexdelia">
 			<h>wakatime activity</h>
-			<img align="center" alt="wakatime activity" src="https://wakatime.com/share/@Alexdelia/875cffe5-4a95-478d-8d72-24f764a84d5a.svg" />
+			<img align="center" alt="wakatime activity" src="https://wakatime.com/share/@rogerio-jose-gastao/875cffe5-4a95-478d-8d72-24f764a84d5a.svg" />
 		</a>
 		-->
 	</details>
