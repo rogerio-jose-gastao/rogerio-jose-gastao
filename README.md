@@ -1,4 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rogerio-jose-gastaorogerio-jose-gastao" />
+<img align="right" src="[https://visitor-badge.laobi.icu/badge?page_id=rogerio-jose-gastaorogerio-jose-gastao](https://wakatime.com/badge/user/cb497d9b-0d5f-4c4c-ada7-d2b703993da8.svg)" />
+
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Sou+Rogério+Gastão!;+Programador+Freelancer;" />
@@ -51,11 +53,11 @@
 		<img align="center"
 			width="32%"
 			alt="top languages"
-			src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexdelia&layout=donut&cache_seconds=1800&theme=radical&langs_count=20&hide_border=true"
+			src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogerio-jose-gastao&layout=donut&cache_seconds=1800&theme=radical&langs_count=20&hide_border=true"
 		/>
 		<!-- <img align="center" alt="wakatime languages" src="https://github-readme-stats-olive-nine.vercel.app/api/wakatime/?username=Alexdelia&layout=donut&theme=radical&hide_border=true" /> -->
 		<!-- wakatime languages -->
-		<a href="https://wakatime.com/@Alexdelia">
+		<a href="https://wakatime.com/@rogerio-jose-gastao">
 			<img align="center"
 				width="66%"
 				alt="wakatime languages"
