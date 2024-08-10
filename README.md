@@ -63,7 +63,7 @@
 		<img align="center"
 			width="70%"
 			alt="3D commit activity"
-			src="https://github.com/Alexdelia/Alexdelia/blob/main/metrics.plugin.isocalendar.fullyear.svg?raw=true"
+			src="https://github.com/rogerio-jose-gastao/rogerio-jose-gastao/blob/main/metrics.plugin.isocalendar.fullyear.svg?raw=true"
 		/>
 		<br />
 		<!-- wakatime activity
@@ -74,7 +74,7 @@
 			<img align="center"
 				width="100%"
 				alt="wakatime activity"
-				src="https://wakatime.com/share/@Alexdelia/180c1465-7def-4209-b6b3-08858e2464a4.svg"
+				src="https://wakatime.com/share/@rogerio-jose-gastao/180c1465-7def-4209-b6b3-08858e2464a4.svg"
 			/>
 		</a>
 		<!-- all time -->
