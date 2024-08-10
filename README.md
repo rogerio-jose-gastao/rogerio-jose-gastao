@@ -56,13 +56,13 @@
 			alt="top languages"
 			src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogerio-jose-gastao&layout=donut&cache_seconds=1800&theme=radical&langs_count=20&hide_border=true"
 		/>
-		<!-- <img align="center" alt="wakatime languages" src="https://github-readme-stats-olive-nine.vercel.app/api/wakatime/?username=Alexdelia&layout=donut&theme=radical&hide_border=true" /> -->
+		<!-- <img align="center" alt="wakatime languages" src="https://github-readme-stats-olive-nine.vercel.app/api/wakatime/?username=rogerio_jose_gastao&layout=donut&theme=radical&hide_border=true" /> -->
 		<!-- wakatime languages -->
-		<a href="https://wakatime.com/@rogerio-jose-gastao">
+		<a href="https://wakatime.com/@rogerio_jose_gastao">
 			<img align="center"
 				width="66%"
 				alt="wakatime languages"
-				src="https://wakatime.com/share/@Alexdelia/824bf8ea-c975-4ee1-9c03-170c9a096d1a.svg"
+				src="https://wakatime.com/badge/user/cb497d9b-0d5f-4c4c-ada7-d2b703993da8.svg"
 			/>
 		</a>
 	</details>
