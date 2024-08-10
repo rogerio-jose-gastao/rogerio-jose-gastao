@@ -2,6 +2,7 @@
 <a href="https://wakatime.com/@rogerio_jose_gastao">
 			<img align="left"
 				width="150rem"
+				margin-top="-25rem"
 				alt="wakatime languages"
 				src="https://wakatime.com/badge/user/cb497d9b-0d5f-4c4c-ada7-d2b703993da8.svg"
 			/>
