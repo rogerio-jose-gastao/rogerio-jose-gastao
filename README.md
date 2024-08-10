@@ -1,5 +1,11 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rogerio-jose-gastaorogerio-jose-gastao" />
-<img align="left" src="[https://visitor-badge.laobi.icu/badge?page_id=rogerio-jose-gastaorogerio-jose-gastao](https://wakatime.com/badge/user/cb497d9b-0d5f-4c4c-ada7-d2b703993da8.svg)" />
+<a href="https://wakatime.com/@rogerio_jose_gastao">
+			<img align="center"
+				width="66%"
+				alt="wakatime languages"
+				src="https://wakatime.com/badge/user/cb497d9b-0d5f-4c4c-ada7-d2b703993da8.svg"
+			/>
+		</a>
 
 
 
