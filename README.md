@@ -47,7 +47,50 @@
   <h2>🌟 Minhas Contribuições 🌟</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/rogerio-jose-gastao/rogerio-jose-gastao/output/github-contribution-grid-snake.svg" />
-  
+  <p align="center">
+	<!-- page view -->
+	<img align="center"
+		alt="page view"
+		src="https://komarev.com/ghpvc/?username=Alexdelia&color=d5397b&style=for-the-badge"
+	/>
+	<!-- wakatime total -->
+	<a href="https://wakatime.com/@da413fd4-a0f0-498f-a02e-aca4dc9c26c3">
+		<img align="center"
+			alt="wakatime total"
+			src="https://wakatime.com/badge/user/da413fd4-a0f0-498f-a02e-aca4dc9c26c3.svg?color=d5397b&style=for-the-badge"
+		/>
+	</a>
+</p>
+<!-- activity -->
+<p align="center">
+	<details open align="center"><summary>activity</summary>
+		<!-- 3D commit activity -->
+		<img align="center"
+			width="70%"
+			alt="3D commit activity"
+			src="https://github.com/Alexdelia/Alexdelia/blob/main/metrics.plugin.isocalendar.fullyear.svg?raw=true"
+		/>
+		<br />
+		<!-- wakatime activity
+		<!-- last year -->
+		<a align="center" href="https://wakatime.com/@Alexdelia">
+			<h>wakatime activity</h>
+			<br/>
+			<img align="center"
+				width="100%"
+				alt="wakatime activity"
+				src="https://wakatime.com/share/@Alexdelia/180c1465-7def-4209-b6b3-08858e2464a4.svg"
+			/>
+		</a>
+		<!-- all time -->
+		<!--
+		<a align="center" href="https://wakatime.com/@Alexdelia">
+			<h>wakatime activity</h>
+			<img align="center" alt="wakatime activity" src="https://wakatime.com/share/@Alexdelia/875cffe5-4a95-478d-8d72-24f764a84d5a.svg" />
+		</a>
+		-->
+	</details>
+</p>
   <br/><br/><br/>
 </div>
 
