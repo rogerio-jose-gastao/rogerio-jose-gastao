@@ -48,16 +48,11 @@
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/rogerio-jose-gastao/rogerio-jose-gastao/output/github-contribution-grid-snake.svg" />
   <p align="center">
-	<!-- page view -->
-	<img align="center"
-		alt="page view"
-		src="https://komarev.com/ghpvc/?username=Alexdelia&color=d5397b&style=for-the-badge"
-	/>
 	<!-- wakatime total -->
 	<a href="https://wakatime.com/@da413fd4-a0f0-498f-a02e-aca4dc9c26c3">
 		<img align="center"
 			alt="wakatime total"
-			src="https://wakatime.com/badge/user/da413fd4-a0f0-498f-a02e-aca4dc9c26c3.svg?color=d5397b&style=for-the-badge"
+			src="https://wakatime.com/badge/user/cb497d9b-0d5f-4c4c-ada7-d2b703993da8.svg?color=80800&style=for-the-badge"
 		/>
 	</a>
 </p>
