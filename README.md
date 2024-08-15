@@ -103,7 +103,7 @@
 		/>
 		<!-- <img align="center" alt="wakatime languages" src="https://github-readme-stats-olive-nine.vercel.app/api/wakatime/?username=rogerio_jose_gastao&layout=donut&theme=radical&hide_border=true" /> -->
 		<!-- wakatime languages -->
-		<figure><embed src="https://wakatime.com/share/@rogerio_jose_gastao/790b0c1a-16ec-4896-b48a-59c3217ddde3.svg"></embed></figure>
+		<figure><embed src="https://wakatime.com/share/@rogerio_jose_gastao/e5c5c586-b0fe-4892-8b63-6408bbf525b7.svg"></embed></figure>
 	</details>
 </p>
 <hr>
