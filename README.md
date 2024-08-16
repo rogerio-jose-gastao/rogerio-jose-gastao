@@ -93,9 +93,7 @@
 
 <h2 align="center">⚡ Top Languages ⚡</h2>
 <br>
-<p align="center">		
-<figure><embed src="https://wakatime.com/share/@rogerio_jose_gastao/e5c5c586-b0fe-4892-8b63-6408bbf525b7.svg"></embed></figure>
-</p>
+<figure><embed src="https://wakatime.com/share/@rogerio_jose_gastao/be78022f-5238-4dbb-87ff-f2e29d1b4423.svg"></embed></figure>
 <hr>
 <a href="https://github.com/rogerio-jose-gastao/github-profile-trophy"><h2>🏆 Trofeus do Github 🏆</h2></a>
 
