@@ -57,8 +57,6 @@
 	</a>
 </p>
 
-		<!-- last year -->
-
 <a href="https://github.com/rogerio-jose-gastao/github-profile-trophy"><h2>🏆 Trofeus do Github 🏆</h2></a>
 
 <div align="center">
@@ -71,7 +69,6 @@
 				src="https://github-readme-stats.vercel.app/api?username=rogerio-jose-gastao&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"
 			/>
 		
-	</details>
 </div>
 
 <br/><br/>
