@@ -112,19 +112,7 @@
 				loading="eager"
 				src="https://github-readme-streak-stats.herokuapp.com?user=rogerio-jose-gastao&theme=radical&date_format=j%20M%5B%20Y%5D&hide_border=true"
 			/>
-		</p>
-		<p align="center">
-			<img align="center"
-				width="49%"
-				alt="metrics achievements"
-				src="https://github.com/rogerio-jose-gastao/rogerio-jose-gastao/blob/main/metrics.plugin.achievements.svg?raw=true"
-			/>
-			<img align="center"
-				width="49%"
-				alt="metrics stats"
-				src="https://github.com/rogerio-jose-gastao/rogerio-jose-gastao/blob/main/metrics.plugin.lines.svg?raw=true"
-			/>
-		</p>
+		
 	</details>
 </div>
 
