@@ -68,33 +68,7 @@
 		<br />
 		<!-- wakatime activity
 		<!-- last year -->
-		<a align="center" href="https://wakatime.com/@rogerio-jose-gastao">
-			<h>wakatime activity</h>
-			<br/>
-			<img align="center"
-				width="100%"
-				alt="wakatime activity"
-				src="https://wakatime.com/share/@rogerio-jose-gastao/180c1465-7def-4209-b6b3-08858e2464a4.svg"
-			/>
-		</a>
-		<!-- all time -->
-		<!--
-		<a align="center" href="https://wakatime.com/@Alexdelia">
-			<h>wakatime activity</h>
-			<img align="center" alt="wakatime activity" src="https://wakatime.com/share/@rogerio-jose-gastao/875cffe5-4a95-478d-8d72-24f764a84d5a.svg" />
-		</a>
-		-->
-	</details>
-</p>
-  <br/><br/><br/>
-</div>
 
-<hr/>
-
-<h2 align="center">⚡ Top Languages ⚡</h2>
-<br>
-<figure><embed src="https://wakatime.com/share/@rogerio_jose_gastao/be78022f-5238-4dbb-87ff-f2e29d1b4423.svg"></embed></figure>
-<hr>
 <a href="https://github.com/rogerio-jose-gastao/github-profile-trophy"><h2>🏆 Trofeus do Github 🏆</h2></a>
 
 <div align="center">
