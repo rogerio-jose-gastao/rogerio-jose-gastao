@@ -56,17 +56,7 @@
 		/>
 	</a>
 </p>
-<!-- activity -->
-<p align="center">
-	<details open align="center"><summary>activity</summary>
-		<!-- 3D commit activity -->
-		<img align="center"
-			width="70%"
-			alt="3D commit activity"
-			src="https://github.com/rogerio-jose-gastao/rogerio-jose-gastao/blob/main/metrics.plugin.isocalendar.fullyear.svg?raw=true"
-		/>
-		<br />
-		<!-- wakatime activity
+
 		<!-- last year -->
 
 <a href="https://github.com/rogerio-jose-gastao/github-profile-trophy"><h2>🏆 Trofeus do Github 🏆</h2></a>
