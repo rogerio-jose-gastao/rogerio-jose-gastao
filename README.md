@@ -38,7 +38,7 @@
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/rogerio-jose-gastao/rogerio-jose-gastao/output/github-contribution-grid-snake.svg" />
 
-<a href="https://github.com/rogerio-jose-gastao/github-profile-trophy"><h2>🏆 Trofeus do Github 🏆</h2></a>
+<a href="https://github.com/rogerio-jose-gastao/github-profile-trophy"><h2>🏆 Status do Github 🏆</h2></a>
 
 <div align="center">
 	<details open><summary>more</summary>
