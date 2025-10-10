@@ -1,14 +1,4 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rogerio-jose-gastaorogerio-jose-gastao" />
-<a href="https://wakatime.com/@rogerio_jose_gastao">
-			<img align="left"
-				width="150rem"
-				margin-top="-25rem"
-				alt="wakatime languages"
-				src="https://wakatime.com/badge/user/cb497d9b-0d5f-4c4c-ada7-d2b703993da8.svg"
-			/>
-		</a>
-
-
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Sou+Rogério+Gastão!;+Programador+Freelancer;" />
