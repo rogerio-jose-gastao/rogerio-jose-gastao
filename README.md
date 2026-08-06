@@ -69,8 +69,8 @@ Every project contributes to technologies that continue serving people beyond th
 <!--START_SECTION:projects-->
 | Repository | Language | Updated | Stars | Description |
 | --- | --- | --- | --- | --- |
-| [leptos_demo](https://github.com/rogerio-jose-gastao/leptos_demo) | CSS | 2026-08-06 | ⭐ 0 | Simple leptos landing page |
 | [rogerio-jose-gastao](https://github.com/rogerio-jose-gastao/rogerio-jose-gastao) | Python | 2026-08-06 | ⭐ 1 | My descriptions |
+| [leptos_demo](https://github.com/rogerio-jose-gastao/leptos_demo) | CSS | 2026-08-06 | ⭐ 0 | Simple leptos landing page |
 | [manual-leptos](https://github.com/rogerio-jose-gastao/manual-leptos) | Rust | 2026-08-04 | ⭐ 0 | No description provided. |
 | [path_to_photonic](https://github.com/rogerio-jose-gastao/path_to_photonic) | Markdown | 2026-07-23 | ⭐ 0 | No description provided. |
 | [to-do_list](https://github.com/rogerio-jose-gastao/to-do_list) | TypeScript | 2024-07-27 | ⭐ 0 | A to-do list app build with React and Typescript. |
