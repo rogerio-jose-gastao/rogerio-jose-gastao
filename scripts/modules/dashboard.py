@@ -25,7 +25,7 @@ def render() -> str:
     stats = client.fetch_user_stats()
 
     status = profile_cfg.get("status", "🟢 Online")
-    focus_list = profile_cfg.get("focus", ["Artificial Intelligence", "Robotics", "Photonic Computing"])
+    focus_list = profile_cfg.get("focus", ["Artificial Intelligence", "Robotics", "Photonic Quantum Computing"])
     current_focus = "<br>".join(focus_list)
     lang_list = profile_cfg.get("languages") or stats.get("languages", ["Rust", "Python", "C"])
     languages = "<br>".join(lang_list)
