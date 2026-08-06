@@ -27,8 +27,10 @@ def render() -> str:
     status = profile_cfg.get("status", "🟢 Online")
     focus_list = profile_cfg.get("focus", ["Artificial Intelligence", "Robotics", "Photonic Computing"])
     current_focus = "<br>".join(focus_list)
-    languages = "<br>".join(stats.get("languages", ["Rust", "Python", "C"]))
+    lang_list = profile_cfg.get("languages") or stats.get("languages", ["Rust", "Python", "C"])
+    languages = "<br>".join(lang_list)
     last_update = get_current_date_str()
+
 
     headers = ["Metric", "Value"]
     rows = [

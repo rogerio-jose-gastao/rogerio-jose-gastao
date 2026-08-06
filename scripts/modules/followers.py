@@ -22,7 +22,8 @@ def render() -> str:
     username = profile_cfg.get("username", "rogerio-jose-gastao")
 
     client = GitHubClient(username=username)
-    followers = client.fetch_followers(limit=14)
+    followers = client.fetch_followers(limit=100)
+
 
     if not followers:
         return "*No followers data available.*"

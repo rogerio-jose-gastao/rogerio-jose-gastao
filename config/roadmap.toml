@@ -3,7 +3,9 @@
 [profile]
 username = "rogerio-jose-gastao"
 status = "🟢 Online"
-focus = ["Artificial Intelligence", "Robotics", "Photonic Computing"]
+focus = ["Artificial Intelligence", "Robotics", "Photonic Quantum Computing"]
+languages = ["Rust", "Python", "C", "TypeScript", "Mojo"]
+
 
 [learning]
 categories = [

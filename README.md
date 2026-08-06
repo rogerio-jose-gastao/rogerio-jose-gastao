@@ -6,7 +6,7 @@
 
 My mission is to engineer systems that amplify human capability.
 
-I work across Artificial Intelligence, Robotics, Photonic Computing and Business Systems.
+I work across Artificial Intelligence, Robotics, Photonic Computing and Business Intelligence Systems.
 
 Every project contributes to technologies that continue serving people beyond their creators.
 
@@ -21,8 +21,8 @@ Every project contributes to technologies that continue serving people beyond th
 | Repositories | 7 |
 | Research Notes | 531 |
 | Projects | 13 |
-| Languages | Rust<br>Python<br>C |
-| Current Focus | Artificial Intelligence<br>Robotics<br>Photonic Computing |
+| Languages | Rust<br>Python<br>C<br>TypeScript<br>Mojo |
+| Current Focus | Artificial Intelligence<br>Robotics<br>Photonic Quantum Computing |
 | Last Update | 2026-08-06 |
 <!--END_SECTION:dashboard-->
 
@@ -92,7 +92,7 @@ Every project contributes to technologies that continue serving people beyond th
 # Followers
 
 <!--START_SECTION:followers-->
-[![idimetrix](https://avatars.githubusercontent.com/u/6536323?v=4&s=60)](https://github.com/idimetrix) [![mustafacagri](https://avatars.githubusercontent.com/u/7488394?v=4&s=60)](https://github.com/mustafacagri) [![IDouble](https://avatars.githubusercontent.com/u/18186995?v=4&s=60)](https://github.com/IDouble) [![jotavare](https://avatars.githubusercontent.com/u/38820667?v=4&s=60)](https://github.com/jotavare) [![hu8813](https://avatars.githubusercontent.com/u/38990435?v=4&s=60)](https://github.com/hu8813) [![helallao](https://avatars.githubusercontent.com/u/78656003?v=4&s=60)](https://github.com/helallao) [![ethanflower1903](https://avatars.githubusercontent.com/u/84658436?v=4&s=60)](https://github.com/ethanflower1903) [![seckinyasar](https://avatars.githubusercontent.com/u/86570205?v=4&s=60)](https://github.com/seckinyasar) [![george0st](https://avatars.githubusercontent.com/u/95856749?v=4&s=60)](https://github.com/george0st) [![iamapuneet](https://avatars.githubusercontent.com/u/108384826?v=4&s=60)](https://github.com/iamapuneet) [![ramin123](https://avatars.githubusercontent.com/u/109870123?v=4&s=60)](https://github.com/ramin123) [![agataofrancisco](https://avatars.githubusercontent.com/u/116224359?v=4&s=60)](https://github.com/agataofrancisco) [![Seif-01](https://avatars.githubusercontent.com/u/117954932?v=4&s=60)](https://github.com/Seif-01) [![Nai64](https://avatars.githubusercontent.com/u/122532548?v=4&s=60)](https://github.com/Nai64)
+[![idimetrix](https://avatars.githubusercontent.com/u/6536323?v=4&s=60)](https://github.com/idimetrix) [![mustafacagri](https://avatars.githubusercontent.com/u/7488394?v=4&s=60)](https://github.com/mustafacagri) [![IDouble](https://avatars.githubusercontent.com/u/18186995?v=4&s=60)](https://github.com/IDouble) [![jotavare](https://avatars.githubusercontent.com/u/38820667?v=4&s=60)](https://github.com/jotavare) [![hu8813](https://avatars.githubusercontent.com/u/38990435?v=4&s=60)](https://github.com/hu8813) [![helallao](https://avatars.githubusercontent.com/u/78656003?v=4&s=60)](https://github.com/helallao) [![ethanflower1903](https://avatars.githubusercontent.com/u/84658436?v=4&s=60)](https://github.com/ethanflower1903) [![seckinyasar](https://avatars.githubusercontent.com/u/86570205?v=4&s=60)](https://github.com/seckinyasar) [![george0st](https://avatars.githubusercontent.com/u/95856749?v=4&s=60)](https://github.com/george0st) [![iamapuneet](https://avatars.githubusercontent.com/u/108384826?v=4&s=60)](https://github.com/iamapuneet) [![ramin123](https://avatars.githubusercontent.com/u/109870123?v=4&s=60)](https://github.com/ramin123) [![agataofrancisco](https://avatars.githubusercontent.com/u/116224359?v=4&s=60)](https://github.com/agataofrancisco) [![Seif-01](https://avatars.githubusercontent.com/u/117954932?v=4&s=60)](https://github.com/Seif-01) [![Nai64](https://avatars.githubusercontent.com/u/122532548?v=4&s=60)](https://github.com/Nai64) [![Tsiangana](https://avatars.githubusercontent.com/u/128613939?v=4&s=60)](https://github.com/Tsiangana) [![ImaCod3r](https://avatars.githubusercontent.com/u/143434065?v=4&s=60)](https://github.com/ImaCod3r) [![2youb00](https://avatars.githubusercontent.com/u/144159255?v=4&s=60)](https://github.com/2youb00) [![Buhari202](https://avatars.githubusercontent.com/u/148594131?v=4&s=60)](https://github.com/Buhari202) [![Iqbolshoh](https://avatars.githubusercontent.com/u/148738947?v=4&s=60)](https://github.com/Iqbolshoh) [![Salomaokamassa](https://avatars.githubusercontent.com/u/155771234?v=4&s=60)](https://github.com/Salomaokamassa) [![Luther-De-Freitas1](https://avatars.githubusercontent.com/u/156821238?v=4&s=60)](https://github.com/Luther-De-Freitas1) [![Ali-hey-0](https://avatars.githubusercontent.com/u/157505360?v=4&s=60)](https://github.com/Ali-hey-0) [![0Darkn](https://avatars.githubusercontent.com/u/164822269?v=4&s=60)](https://github.com/0Darkn) [![LinuxJS](https://avatars.githubusercontent.com/u/193270912?v=4&s=60)](https://github.com/LinuxJS)
 <!--END_SECTION:followers-->
 
 ---
