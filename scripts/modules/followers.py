@@ -30,10 +30,8 @@ def render() -> str:
 
     items: List[str] = []
     for follower in followers:
-        avatar = f'<img src="{follower.avatar_url}" width="48" height="48" style="border-radius: 50%;" alt="{follower.login}"/>'
-        item = f'a href="{follower.html_url}" title="{follower.name}">{avatar}</a'
-        # Since rule 4 requires pure markdown without raw HTML tags where possible, or minimal image avatars:
-        markdown_avatar = f"[![{follower.login}]({follower.avatar_url}&s=60)]({follower.html_url})"
-        items.append(markdown_avatar)
+        avatar_tag = f'<a href="{follower.html_url}"><img src="{follower.avatar_url}" width="48" height="48" style="border-radius: 50%;" title="{follower.login}" alt="{follower.login}" /></a>'
+        items.append(avatar_tag)
 
     return " ".join(items)
+
