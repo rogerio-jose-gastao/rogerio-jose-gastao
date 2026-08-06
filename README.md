@@ -56,6 +56,7 @@ Every project contributes to technologies that continue serving people beyond th
 | --- | --- |
 | ForgeAI | AI engineering and intelligent software framework |
 | PAC+ | High-performance intelligent system under active development |
+| Cliro | Automated developer and robotics tooling CLI |
 | AdMais | Creative technologies powered by deep learning |
 | Path to Photonic | Open research vault & photonic computing laboratory |
 | Sentinel.ai | Autonomous monitoring and decision system |
