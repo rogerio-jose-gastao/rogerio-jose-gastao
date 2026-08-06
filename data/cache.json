@@ -306,5 +306,67 @@
         "html_url": "https://github.com/LinuxJS"
       }
     ]
+  },
+  "repos_rogerio-jose-gastao_100": {
+    "timestamp": 1785994983.3978155,
+    "ttl": 3600,
+    "value": [
+      {
+        "name": "rogerio-jose-gastao",
+        "description": "My descriptions",
+        "language": "Python",
+        "stars": 1,
+        "updated_at": "2026-08-06",
+        "url": "https://github.com/rogerio-jose-gastao/rogerio-jose-gastao"
+      },
+      {
+        "name": "manual-leptos",
+        "description": "No description provided.",
+        "language": "Rust",
+        "stars": 0,
+        "updated_at": "2026-08-04",
+        "url": "https://github.com/rogerio-jose-gastao/manual-leptos"
+      },
+      {
+        "name": "path_to_photonic",
+        "description": "No description provided.",
+        "language": "Markdown",
+        "stars": 0,
+        "updated_at": "2026-07-23",
+        "url": "https://github.com/rogerio-jose-gastao/path_to_photonic"
+      },
+      {
+        "name": "to-do_list",
+        "description": "A to-do list app build with React and Typescript.",
+        "language": "TypeScript",
+        "stars": 0,
+        "updated_at": "2024-07-27",
+        "url": "https://github.com/rogerio-jose-gastao/to-do_list"
+      },
+      {
+        "name": "lowlighter",
+        "description": "\ud83e\udd91 A GitHub profile auto-generated with metrics, starred topics, an isometric contribution calendar, suggested music tracks, website performances, most used languages, etc. !",
+        "language": "Markdown",
+        "stars": 1,
+        "updated_at": "2024-01-26",
+        "url": "https://github.com/rogerio-jose-gastao/lowlighter"
+      },
+      {
+        "name": "links-uteis",
+        "description": "\ud83d\udcce Lista de links \u00fateis para o desenvolvimento de projetos de programa\u00e7\u00e3o e design",
+        "language": "Markdown",
+        "stars": 1,
+        "updated_at": "2024-01-21",
+        "url": "https://github.com/rogerio-jose-gastao/links-uteis"
+      },
+      {
+        "name": "calculator-app-main",
+        "description": "My second calculetor, only a funny way of codding day",
+        "language": "CSS",
+        "stars": 1,
+        "updated_at": "2024-01-21",
+        "url": "https://github.com/rogerio-jose-gastao/calculator-app-main"
+      }
+    ]
   }
 }

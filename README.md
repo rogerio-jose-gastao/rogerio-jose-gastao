@@ -69,12 +69,13 @@ Every project contributes to technologies that continue serving people beyond th
 <!--START_SECTION:projects-->
 | Repository | Language | Updated | Stars | Description |
 | --- | --- | --- | --- | --- |
-| [rogerio-jose-gastao](https://github.com/rogerio-jose-gastao/rogerio-jose-gastao) | Markdown | 2026-08-06 | ⭐ 1 | My descriptions |
+| [rogerio-jose-gastao](https://github.com/rogerio-jose-gastao/rogerio-jose-gastao) | Python | 2026-08-06 | ⭐ 1 | My descriptions |
 | [manual-leptos](https://github.com/rogerio-jose-gastao/manual-leptos) | Rust | 2026-08-04 | ⭐ 0 | No description provided. |
 | [path_to_photonic](https://github.com/rogerio-jose-gastao/path_to_photonic) | Markdown | 2026-07-23 | ⭐ 0 | No description provided. |
 | [to-do_list](https://github.com/rogerio-jose-gastao/to-do_list) | TypeScript | 2024-07-27 | ⭐ 0 | A to-do list app build with React and Typescript. |
 | [lowlighter](https://github.com/rogerio-jose-gastao/lowlighter) | Markdown | 2024-01-26 | ⭐ 1 | 🦑 A GitHub profile auto-generated with metrics, starred topics, an isometric contribution calendar, suggested music tracks, website performances, most used languages, etc. ! |
 | [links-uteis](https://github.com/rogerio-jose-gastao/links-uteis) | Markdown | 2024-01-21 | ⭐ 1 | 📎 Lista de links úteis para o desenvolvimento de projetos de programação e design |
+| [calculator-app-main](https://github.com/rogerio-jose-gastao/calculator-app-main) | CSS | 2024-01-21 | ⭐ 1 | My second calculetor, only a funny way of codding day |
 <!--END_SECTION:projects-->
 
 ---

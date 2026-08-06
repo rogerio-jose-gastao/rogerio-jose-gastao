@@ -11,9 +11,12 @@ from scripts.core.markdown import render_table
 from scripts.core.utils import load_toml_config
 
 
-def render() -> str:
+def render(limit: int = 100) -> str:
     """
     Render Projects section in Markdown format.
+
+    Args:
+        limit: Max number of repositories to display. Default 100.
 
     Returns:
         Markdown string containing table of repositories with stars, language, updated date.
@@ -23,7 +26,7 @@ def render() -> str:
     username = profile_cfg.get("username", "rogerio-jose-gastao")
 
     client = GitHubClient(username=username)
-    repos = client.fetch_user_repositories(limit=6)
+    repos = client.fetch_user_repositories(limit=limit)
 
     headers = ["Repository", "Language", "Updated", "Stars", "Description"]
     rows: List[List[str]] = []
@@ -34,3 +37,4 @@ def render() -> str:
         rows.append([repo_link, repo.language, repo.updated_at, stars_str, repo.description])
 
     return render_table(headers, rows)
+
