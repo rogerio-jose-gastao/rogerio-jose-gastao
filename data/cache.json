@@ -1,9 +1,9 @@
 {
   "user_stats_rogerio-jose-gastao": {
-    "timestamp": 1786004219.0429027,
+    "timestamp": 1786023790.7868617,
     "ttl": 3600,
     "value": {
-      "public_repos": 7,
+      "public_repos": 8,
       "research_notes": 531,
       "projects_count": 13,
       "languages": [
@@ -158,7 +158,7 @@
     ]
   },
   "followers_rogerio-jose-gastao_100": {
-    "timestamp": 1786004220.0843763,
+    "timestamp": 1786023792.0805798,
     "ttl": 3600,
     "value": [
       {
@@ -308,9 +308,17 @@
     ]
   },
   "repos_rogerio-jose-gastao_100": {
-    "timestamp": 1786004219.4745958,
+    "timestamp": 1786023791.324334,
     "ttl": 3600,
     "value": [
+      {
+        "name": "leptos_demo",
+        "description": "Simple leptos landing page",
+        "language": "CSS",
+        "stars": 0,
+        "updated_at": "2026-08-06",
+        "url": "https://github.com/rogerio-jose-gastao/leptos_demo"
+      },
       {
         "name": "rogerio-jose-gastao",
         "description": "My descriptions",
