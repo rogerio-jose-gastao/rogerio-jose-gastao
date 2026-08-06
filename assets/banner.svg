@@ -77,10 +77,11 @@
       <circle cx="213" cy="17" r="4" fill="#818cf8" filter="url(#glow)"/>
       <text x="227" y="22" font-family="'Inter', sans-serif" font-size="13" font-weight="600" fill="#f8fafc">Robotics</text>
 
-      <!-- Badge 3: Photonic Computing -->
-      <rect x="335" y="0" width="185" height="34" rx="6" fill="url(#card-bg)" stroke="#10b981" stroke-width="1"/>
+      <!-- Badge 3: Photonic Quantum Computing -->
+      <rect x="335" y="0" width="240" height="34" rx="6" fill="url(#card-bg)" stroke="#10b981" stroke-width="1"/>
       <circle cx="353" cy="17" r="4" fill="#10b981" filter="url(#glow)"/>
-      <text x="367" y="22" font-family="'Inter', sans-serif" font-size="13" font-weight="600" fill="#f8fafc">Photonic Computing</text>
+      <text x="367" y="22" font-family="'Inter', sans-serif" font-size="13" font-weight="600" fill="#f8fafc">Photonic Quantum Computing</text>
+
     </g>
 
     <!-- Terminal Output Line -->
