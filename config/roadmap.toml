@@ -1,0 +1,36 @@
+# Learning Roadmap Configuration
+
+[profile]
+username = "rogerio-jose-gastao"
+status = "🟢 Online"
+focus = ["Artificial Intelligence", "Robotics", "Photonic Computing"]
+
+[learning]
+categories = [
+    { name = "Systems & High Performance", topics = ["Rust", "Leptos", "Tokio", "CUDA"] },
+    { name = "Robotics & Simulation", topics = ["ROS2", "Control Theory", "Photonic Simulation"] },
+    { name = "Strategy & Architecture", topics = ["Business Strategy", "Deep Tech Systems"] }
+]
+
+[research]
+categories = [
+    { name = "AI + CS", progress = 10, total = 14 },
+    { name = "Photonic CS", progress = 6, total = 12 },
+    { name = "BTM", progress = 4, total = 12 },
+    { name = "Robotics", progress = 8, total = 12 }
+]
+notes = [
+    "Quantum Error Correction",
+    "Integrated Photonics",
+    "Reinforcement Learning"
+]
+
+[engineering]
+systems = [
+    { name = "ForgeAI", description = "AI engineering and intelligent software framework" },
+    { name = "PAC+", description = "High-performance intelligent system under active development" },
+    { name = "Cliro", description = "Automated developer and robotics tooling CLI" },
+    { name = "AdMais", description = "Creative technologies powered by deep learning" },
+    { name = "Path to Photonic", description = "Open research vault & photonic computing laboratory" },
+    { name = "Sentinel.ai", description = "Autonomous monitoring and decision system" }
+]

@@ -1,162 +1,104 @@
 <p align="center">
-    <img src="assets/banner.png" alt="Banner"/>
+  <img src="assets/banner.svg" alt="ROG1 Laboratory Banner" width="100%"/>
 </p>
 
-<h1 align="center">
-Rogério Gastão
-</h1>
+# Mission
 
-<p align="center">
-<b>AI • Robotics • Photonic Computing • Systems Engineering • Technology Entrepreneurship</b>
-</p>
+My mission is to engineer systems that amplify human capability.
 
-<p align="center">
-Building intelligent systems that empower humanity.
-</p>
+I work across Artificial Intelligence, Robotics, Photonic Computing and Business Systems.
 
-<p align="center">
-
-<a href="mailto:eltrondemais@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-black?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://www.linkedin.com/in/eu-programador-630259295/">
-<img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://rogerio-jose-gastao.github.io">
-<img src="https://img.shields.io/badge/Portfolio-Website-orange?style=for-the-badge"/>
-</a>
-
-</p>
+Every project contributes to technologies that continue serving people beyond their creators.
 
 ---
 
-# About
+# Dashboard
 
-<img align="right" width="420" src="https://github-readme-stats.vercel.app/api?username=rogerio-jose-gastao&show_icons=true&theme=github_dark&hide_border=true"/>
-
-Computer Science student specializing in **Artificial Intelligence & Machine Learning**, with a strong interest in **Robotics**, **Photonic Computing**, **Systems Engineering**, and **Business & Technology Management**.
-
-My work focuses on understanding how intelligent systems can be designed, engineered and transformed into technologies that create long-term value.
-
-I believe that engineering is not merely about building software.
-
-It is about building systems capable of improving people's lives.
-
-<br>
-
----
-
-# Research Areas
-
-🧠 Artificial Intelligence
-
-🤖 Robotics
-
-💡 Photonic Computing
-
-⚙️ Systems Engineering
-
-📈 Business & Technology Management
-
-🌐 Open Source
+<!--START_SECTION:dashboard-->
+| Metric | Value |
+| --- | --- |
+| Status | 🟢 Online |
+| Repositories | 7 |
+| Research Notes | 531 |
+| Projects | 13 |
+| Languages | Rust<br>Python<br>C |
+| Current Focus | Artificial Intelligence<br>Robotics<br>Photonic Computing |
+| Last Update | 2026-08-06 |
+<!--END_SECTION:dashboard-->
 
 ---
 
-# Current Laboratory
+# Research
 
-| Project | Description |
-|----------|-------------|
-| Path to Photonic | Open Research Vault documenting my engineering journey |
-| ForgeAI | AI engineering and intelligent software |
-| AdMais | Creative technologies powered by AI |
-| PAC+ | Intelligent systems under development |
-| Robotics Lab | Robotics, ROS, embedded systems and simulations |
+<!--START_SECTION:research-->
+### Latest Notes
 
----
+• Quantum Error Correction
+• Integrated Photonics
+• Reinforcement Learning
 
-# Current Focus
+### Research Progress
 
-- Studying Computer Science (AI & ML)
-- Building open-source projects
-- Publishing research notes
-- Learning mathematics and engineering fundamentals
-- Exploring Deep Tech entrepreneurship
-- Developing intelligent systems
+| Category | Progress |
+|---|---|
+| **AI + CS** | `██████████░░░░` |
+| **Photonic CS** | `███████░░░░░░░` |
+| **BTM** | `█████░░░░░░░░░` |
+| **Robotics** | `█████████░░░░░` |
+<!--END_SECTION:research-->
 
 ---
 
-# Technologies
+# Engineering
 
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-black?style=flat-square&logo=rust)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c)
-
-### AI
-
-PyTorch • TensorFlow • Computer Vision • NLP • LLMs
-
-### Robotics
-
-ROS • Gazebo • Embedded Systems • Microcontrollers
-
-### Engineering
-
-Linux • Git • Docker • Open Source
+<!--START_SECTION:engineering-->
+| System | Description |
+| --- | --- |
+| ForgeAI | AI engineering and intelligent software framework |
+| PAC+ | High-performance intelligent system under active development |
+| Cliro | Automated developer and robotics tooling CLI |
+| AdMais | Creative technologies powered by deep learning |
+| Path to Photonic | Open research vault & photonic computing laboratory |
+| Sentinel.ai | Autonomous monitoring and decision system |
+<!--END_SECTION:engineering-->
 
 ---
 
-# GitHub Activity
+# Projects
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rogerio-jose-gastao&theme=github-dark&hide_border=true"/>
-</p>
-
----
-
-# Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rogerio-jose-gastao&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogerio-jose-gastao&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
+<!--START_SECTION:projects-->
+| Repository | Language | Updated | Stars | Description |
+| --- | --- | --- | --- | --- |
+| [rogerio-jose-gastao](https://github.com/rogerio-jose-gastao/rogerio-jose-gastao) | Markdown | 2026-08-06 | ⭐ 1 | My descriptions |
+| [manual-leptos](https://github.com/rogerio-jose-gastao/manual-leptos) | Rust | 2026-08-04 | ⭐ 0 | No description provided. |
+| [path_to_photonic](https://github.com/rogerio-jose-gastao/path_to_photonic) | Markdown | 2026-07-23 | ⭐ 0 | No description provided. |
+| [to-do_list](https://github.com/rogerio-jose-gastao/to-do_list) | TypeScript | 2024-07-27 | ⭐ 0 | A to-do list app build with React and Typescript. |
+| [lowlighter](https://github.com/rogerio-jose-gastao/lowlighter) | Markdown | 2024-01-26 | ⭐ 1 | 🦑 A GitHub profile auto-generated with metrics, starred topics, an isometric contribution calendar, suggested music tracks, website performances, most used languages, etc. ! |
+| [links-uteis](https://github.com/rogerio-jose-gastao/links-uteis) | Markdown | 2024-01-21 | ⭐ 1 | 📎 Lista de links úteis para o desenvolvimento de projetos de programação e design |
+<!--END_SECTION:projects-->
 
 ---
 
-# Contributions
+# Learning
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/rogerio-jose-gastao/rogerio-jose-gastao/output/github-contribution-grid-snake.svg"/>
-</p>
+<!--START_SECTION:learning-->
+- **Systems & High Performance**: `Rust` • `Leptos` • `Tokio` • `CUDA`
+- **Robotics & Simulation**: `ROS2` • `Control Theory` • `Photonic Simulation`
+- **Strategy & Architecture**: `Business Strategy` • `Deep Tech Systems`
+<!--END_SECTION:learning-->
 
 ---
 
-# Philosophy
+# Followers
 
-> Learn continuously.
+<!--START_SECTION:followers-->
+[![idimetrix](https://avatars.githubusercontent.com/u/6536323?v=4&s=60)](https://github.com/idimetrix) [![mustafacagri](https://avatars.githubusercontent.com/u/7488394?v=4&s=60)](https://github.com/mustafacagri) [![IDouble](https://avatars.githubusercontent.com/u/18186995?v=4&s=60)](https://github.com/IDouble) [![jotavare](https://avatars.githubusercontent.com/u/38820667?v=4&s=60)](https://github.com/jotavare) [![hu8813](https://avatars.githubusercontent.com/u/38990435?v=4&s=60)](https://github.com/hu8813) [![helallao](https://avatars.githubusercontent.com/u/78656003?v=4&s=60)](https://github.com/helallao) [![ethanflower1903](https://avatars.githubusercontent.com/u/84658436?v=4&s=60)](https://github.com/ethanflower1903) [![seckinyasar](https://avatars.githubusercontent.com/u/86570205?v=4&s=60)](https://github.com/seckinyasar) [![george0st](https://avatars.githubusercontent.com/u/95856749?v=4&s=60)](https://github.com/george0st) [![iamapuneet](https://avatars.githubusercontent.com/u/108384826?v=4&s=60)](https://github.com/iamapuneet) [![ramin123](https://avatars.githubusercontent.com/u/109870123?v=4&s=60)](https://github.com/ramin123) [![agataofrancisco](https://avatars.githubusercontent.com/u/116224359?v=4&s=60)](https://github.com/agataofrancisco) [![Seif-01](https://avatars.githubusercontent.com/u/117954932?v=4&s=60)](https://github.com/Seif-01) [![Nai64](https://avatars.githubusercontent.com/u/122532548?v=4&s=60)](https://github.com/Nai64)
+<!--END_SECTION:followers-->
+
+---
+
+# Footer
+
+> *"Build things that continue serving after you're gone."*
 >
-> Build deliberately.
->
-> Share openly.
->
-> Improve relentlessly.
-
----
-
-> *"Everything is possible for one who believes."*
->
-> **Mark 9:23**
-
----
-
-<p align="center">
-
-**Engineering the future, one system at a time.**
-
-</p>
+> — **Rogério Gastão**

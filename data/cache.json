@@ -1,0 +1,160 @@
+{
+  "user_stats_rogerio-jose-gastao": {
+    "timestamp": 1785994006.3410025,
+    "ttl": 3600,
+    "value": {
+      "public_repos": 7,
+      "research_notes": 531,
+      "projects_count": 13,
+      "languages": [
+        "Rust",
+        "Python",
+        "C"
+      ]
+    }
+  },
+  "repos_rogerio-jose-gastao_6": {
+    "timestamp": 1785994006.971599,
+    "ttl": 3600,
+    "value": [
+      {
+        "name": "rogerio-jose-gastao",
+        "description": "My descriptions",
+        "language": "Markdown",
+        "stars": 1,
+        "updated_at": "2026-08-06",
+        "url": "https://github.com/rogerio-jose-gastao/rogerio-jose-gastao"
+      },
+      {
+        "name": "manual-leptos",
+        "description": "No description provided.",
+        "language": "Rust",
+        "stars": 0,
+        "updated_at": "2026-08-04",
+        "url": "https://github.com/rogerio-jose-gastao/manual-leptos"
+      },
+      {
+        "name": "path_to_photonic",
+        "description": "No description provided.",
+        "language": "Markdown",
+        "stars": 0,
+        "updated_at": "2026-07-23",
+        "url": "https://github.com/rogerio-jose-gastao/path_to_photonic"
+      },
+      {
+        "name": "to-do_list",
+        "description": "A to-do list app build with React and Typescript.",
+        "language": "TypeScript",
+        "stars": 0,
+        "updated_at": "2024-07-27",
+        "url": "https://github.com/rogerio-jose-gastao/to-do_list"
+      },
+      {
+        "name": "lowlighter",
+        "description": "\ud83e\udd91 A GitHub profile auto-generated with metrics, starred topics, an isometric contribution calendar, suggested music tracks, website performances, most used languages, etc. !",
+        "language": "Markdown",
+        "stars": 1,
+        "updated_at": "2024-01-26",
+        "url": "https://github.com/rogerio-jose-gastao/lowlighter"
+      },
+      {
+        "name": "links-uteis",
+        "description": "\ud83d\udcce Lista de links \u00fateis para o desenvolvimento de projetos de programa\u00e7\u00e3o e design",
+        "language": "Markdown",
+        "stars": 1,
+        "updated_at": "2024-01-21",
+        "url": "https://github.com/rogerio-jose-gastao/links-uteis"
+      }
+    ]
+  },
+  "followers_rogerio-jose-gastao_14": {
+    "timestamp": 1785994007.5262663,
+    "ttl": 3600,
+    "value": [
+      {
+        "login": "idimetrix",
+        "name": "idimetrix",
+        "avatar_url": "https://avatars.githubusercontent.com/u/6536323?v=4",
+        "html_url": "https://github.com/idimetrix"
+      },
+      {
+        "login": "mustafacagri",
+        "name": "mustafacagri",
+        "avatar_url": "https://avatars.githubusercontent.com/u/7488394?v=4",
+        "html_url": "https://github.com/mustafacagri"
+      },
+      {
+        "login": "IDouble",
+        "name": "IDouble",
+        "avatar_url": "https://avatars.githubusercontent.com/u/18186995?v=4",
+        "html_url": "https://github.com/IDouble"
+      },
+      {
+        "login": "jotavare",
+        "name": "jotavare",
+        "avatar_url": "https://avatars.githubusercontent.com/u/38820667?v=4",
+        "html_url": "https://github.com/jotavare"
+      },
+      {
+        "login": "hu8813",
+        "name": "hu8813",
+        "avatar_url": "https://avatars.githubusercontent.com/u/38990435?v=4",
+        "html_url": "https://github.com/hu8813"
+      },
+      {
+        "login": "helallao",
+        "name": "helallao",
+        "avatar_url": "https://avatars.githubusercontent.com/u/78656003?v=4",
+        "html_url": "https://github.com/helallao"
+      },
+      {
+        "login": "ethanflower1903",
+        "name": "ethanflower1903",
+        "avatar_url": "https://avatars.githubusercontent.com/u/84658436?v=4",
+        "html_url": "https://github.com/ethanflower1903"
+      },
+      {
+        "login": "seckinyasar",
+        "name": "seckinyasar",
+        "avatar_url": "https://avatars.githubusercontent.com/u/86570205?v=4",
+        "html_url": "https://github.com/seckinyasar"
+      },
+      {
+        "login": "george0st",
+        "name": "george0st",
+        "avatar_url": "https://avatars.githubusercontent.com/u/95856749?v=4",
+        "html_url": "https://github.com/george0st"
+      },
+      {
+        "login": "iamapuneet",
+        "name": "iamapuneet",
+        "avatar_url": "https://avatars.githubusercontent.com/u/108384826?v=4",
+        "html_url": "https://github.com/iamapuneet"
+      },
+      {
+        "login": "ramin123",
+        "name": "ramin123",
+        "avatar_url": "https://avatars.githubusercontent.com/u/109870123?v=4",
+        "html_url": "https://github.com/ramin123"
+      },
+      {
+        "login": "agataofrancisco",
+        "name": "agataofrancisco",
+        "avatar_url": "https://avatars.githubusercontent.com/u/116224359?v=4",
+        "html_url": "https://github.com/agataofrancisco"
+      },
+      {
+        "login": "Seif-01",
+        "name": "Seif-01",
+        "avatar_url": "https://avatars.githubusercontent.com/u/117954932?v=4",
+        "html_url": "https://github.com/Seif-01"
+      },
+      {
+        "login": "Nai64",
+        "name": "Nai64",
+        "avatar_url": "https://avatars.githubusercontent.com/u/122532548?v=4",
+        "html_url": "https://github.com/Nai64"
+      }
+    ]
+  }
+}

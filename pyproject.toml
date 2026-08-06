@@ -1,0 +1,32 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "rogerio-jose-gastao-readme-engine"
+version = "1.0.0"
+description = "A modular documentation engine that transforms data from different sources into a living GitHub profile."
+readme = "README.md"
+requires-python = ">=3.13"
+license = {text = "MIT"}
+authors = [
+    {name = "Rogério Gastão", email = "eltrondemais@gmail.com"}
+]
+keywords = ["github-profile", "automation", "readme-engine", "markdown", "python"]
+classifiers = [
+    "Development Status :: 5 - Production/Stable",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3.13",
+    "Topic :: Documentation",
+    "Topic :: Software Development :: Build Tools"
+]
+
+dependencies = []
+
+[project.urls]
+Homepage = "https://github.com/rogerio-jose-gastao/rogerio-jose-gastao"
+Repository = "https://github.com/rogerio-jose-gastao/rogerio-jose-gastao"
+
+[tool.setuptools.packages.find]
+where = ["scripts"]
