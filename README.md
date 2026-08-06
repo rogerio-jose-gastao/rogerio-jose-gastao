@@ -43,7 +43,7 @@ Every project contributes to technologies that continue serving people beyond th
 |---|---|
 | **AI + CS** | `██████████░░░░` |
 | **Photonic CS** | `███████░░░░░░░` |
-| **BTM** | `█████░░░░░░░░░` |
+| **BTM** | `███████░░░░░░░` |
 | **Robotics** | `█████████░░░░░` |
 <!--END_SECTION:research-->
 
