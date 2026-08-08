@@ -1,6 +1,6 @@
 {
   "user_stats_rogerio-jose-gastao": {
-    "timestamp": 1786128063.7506895,
+    "timestamp": 1786150633.8193986,
     "ttl": 3600,
     "value": {
       "public_repos": 8,
@@ -158,9 +158,15 @@
     ]
   },
   "followers_rogerio-jose-gastao_100": {
-    "timestamp": 1786128064.9106145,
+    "timestamp": 1786150634.572299,
     "ttl": 3600,
     "value": [
+      {
+        "login": "horaciomanuel26",
+        "name": "Hor\u00e1cio Manuel",
+        "avatar_url": "https://avatars.githubusercontent.com/u/145765469?u=88ad8bb7ee95fbe30160d24ede06fffc88bd2032&v=4",
+        "html_url": "https://github.com/horaciomanuel26"
+      },
       {
         "login": "Ali-hey-0",
         "name": "Ali Heydari",
@@ -308,14 +314,14 @@
     ]
   },
   "repos_rogerio-jose-gastao_100": {
-    "timestamp": 1786128064.14393,
+    "timestamp": 1786150634.0985382,
     "ttl": 3600,
     "value": [
       {
         "name": "rogerio-jose-gastao",
         "description": "My descriptions",
         "language": "Python",
-        "stars": 1,
+        "stars": 2,
         "updated_at": "2026-08-07",
         "url": "https://github.com/rogerio-jose-gastao/rogerio-jose-gastao"
       },
