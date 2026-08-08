@@ -18,7 +18,7 @@ Every project contributes to technologies that continue serving people beyond th
 | Metric | Value |
 | --- | --- |
 | Status | 🟢 Online |
-| Repositories | 8 |
+| Repositories | 9 |
 | Research Notes | 531 |
 | Projects | 13 |
 | Languages | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="16" height="16" alt="Rust" /> Rust<br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="16" height="16" alt="Python" /> Python<br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="16" height="16" alt="C" /> C<br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="16" height="16" alt="TypeScript" /> TypeScript<br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mojo/mojo-original.svg" width="16" height="16" alt="Mojo" /> Mojo |
@@ -69,6 +69,7 @@ Every project contributes to technologies that continue serving people beyond th
 <!--START_SECTION:projects-->
 | Repository | Language | Updated | Stars | Description |
 | --- | --- | --- | --- | --- |
+| [guessing_game](https://github.com/rogerio-jose-gastao/guessing_game) | Rust | 2026-08-08 | ⭐ 0 | A simple guessing game made in rust to learn more about rust. |
 | [rogerio-jose-gastao](https://github.com/rogerio-jose-gastao/rogerio-jose-gastao) | Python | 2026-08-08 | ⭐ 2 | My descriptions |
 | [leptos_demo](https://github.com/rogerio-jose-gastao/leptos_demo) | CSS | 2026-08-06 | ⭐ 0 | Simple leptos landing page |
 | [manual-leptos](https://github.com/rogerio-jose-gastao/manual-leptos) | Rust | 2026-08-04 | ⭐ 0 | No description provided. |
