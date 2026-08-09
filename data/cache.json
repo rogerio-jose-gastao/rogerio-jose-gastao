@@ -1,6 +1,6 @@
 {
   "user_stats_rogerio-jose-gastao": {
-    "timestamp": 1786213404.0957768,
+    "timestamp": 1786237235.0236473,
     "ttl": 3600,
     "value": {
       "public_repos": 9,
@@ -158,7 +158,7 @@
     ]
   },
   "followers_rogerio-jose-gastao_100": {
-    "timestamp": 1786213405.12042,
+    "timestamp": 1786237235.7817342,
     "ttl": 3600,
     "value": [
       {
@@ -314,17 +314,9 @@
     ]
   },
   "repos_rogerio-jose-gastao_100": {
-    "timestamp": 1786213404.4795768,
+    "timestamp": 1786237235.1913946,
     "ttl": 3600,
     "value": [
-      {
-        "name": "guessing_game",
-        "description": "A simple guessing game made in rust to learn more about rust.",
-        "language": "Rust",
-        "stars": 0,
-        "updated_at": "2026-08-08",
-        "url": "https://github.com/rogerio-jose-gastao/guessing_game"
-      },
       {
         "name": "rogerio-jose-gastao",
         "description": "My descriptions",
@@ -332,6 +324,14 @@
         "stars": 2,
         "updated_at": "2026-08-08",
         "url": "https://github.com/rogerio-jose-gastao/rogerio-jose-gastao"
+      },
+      {
+        "name": "guessing_game",
+        "description": "A simple guessing game made in rust to learn more about rust.",
+        "language": "Rust",
+        "stars": 0,
+        "updated_at": "2026-08-08",
+        "url": "https://github.com/rogerio-jose-gastao/guessing_game"
       },
       {
         "name": "leptos_demo",
