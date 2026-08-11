@@ -69,7 +69,7 @@ Every project contributes to technologies that continue serving people beyond th
 <!--START_SECTION:projects-->
 | Repository | Language | Updated | Stars | Description |
 | --- | --- | --- | --- | --- |
-| [rogerio-jose-gastao](https://github.com/rogerio-jose-gastao/rogerio-jose-gastao) | Python | 2026-08-10 | ⭐ 2 | My descriptions |
+| [rogerio-jose-gastao](https://github.com/rogerio-jose-gastao/rogerio-jose-gastao) | Python | 2026-08-11 | ⭐ 2 | My descriptions |
 | [guessing_game](https://github.com/rogerio-jose-gastao/guessing_game) | Rust | 2026-08-08 | ⭐ 0 | A simple guessing game made in rust to learn more about rust. |
 | [leptos_demo](https://github.com/rogerio-jose-gastao/leptos_demo) | CSS | 2026-08-06 | ⭐ 0 | Simple leptos landing page |
 | [manual-leptos](https://github.com/rogerio-jose-gastao/manual-leptos) | Rust | 2026-08-04 | ⭐ 0 | No description provided. |
