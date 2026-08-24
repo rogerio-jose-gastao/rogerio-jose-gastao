@@ -1,6 +1,6 @@
 {
   "user_stats_rogerio-jose-gastao": {
-    "timestamp": 1787553478.7194889,
+    "timestamp": 1787574539.7066355,
     "ttl": 3600,
     "value": {
       "public_repos": 9,
@@ -158,7 +158,7 @@
     ]
   },
   "followers_rogerio-jose-gastao_100": {
-    "timestamp": 1787553479.631646,
+    "timestamp": 1787574540.713325,
     "ttl": 3600,
     "value": [
       {
@@ -200,7 +200,7 @@
       {
         "login": "Seif-01",
         "name": "Seif",
-        "avatar_url": "https://avatars.githubusercontent.com/u/117954932?u=d5181d023579fee6175b108fc8fef398b35d8ac5&v=4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/117954932?u=2464755af682a00bfe9b3c0894f48d330c96eb96&v=4",
         "html_url": "https://github.com/Seif-01"
       },
       {
@@ -314,7 +314,7 @@
     ]
   },
   "repos_rogerio-jose-gastao_100": {
-    "timestamp": 1787553479.0603132,
+    "timestamp": 1787574540.115583,
     "ttl": 3600,
     "value": [
       {
