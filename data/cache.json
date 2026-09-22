@@ -1,6 +1,6 @@
 {
   "user_stats_rogerio-jose-gastao": {
-    "timestamp": 1790073426.6518443,
+    "timestamp": 1790092719.6137195,
     "ttl": 3600,
     "value": {
       "public_repos": 9,
@@ -158,9 +158,15 @@
     ]
   },
   "followers_rogerio-jose-gastao_100": {
-    "timestamp": 1790073428.0870745,
+    "timestamp": 1790092720.8116527,
     "ttl": 3600,
     "value": [
+      {
+        "login": "lxlynx",
+        "name": "Alexander Cardoza",
+        "avatar_url": "https://avatars.githubusercontent.com/u/324573839?v=4",
+        "html_url": "https://github.com/lxlynx"
+      },
       {
         "login": "horaciomanuel26",
         "name": "Hor\u00e1cio Manuel",
@@ -308,7 +314,7 @@
     ]
   },
   "repos_rogerio-jose-gastao_100": {
-    "timestamp": 1790073427.4188058,
+    "timestamp": 1790092720.155513,
     "ttl": 3600,
     "value": [
       {
