@@ -1,6 +1,6 @@
 {
   "user_stats_rogerio-jose-gastao": {
-    "timestamp": 1790568689.5396516,
+    "timestamp": 1790598286.3286872,
     "ttl": 3600,
     "value": {
       "public_repos": 9,
@@ -158,7 +158,7 @@
     ]
   },
   "followers_rogerio-jose-gastao_100": {
-    "timestamp": 1790568690.6830552,
+    "timestamp": 1790598287.7100046,
     "ttl": 3600,
     "value": [
       {
@@ -178,12 +178,6 @@
         "name": "Seckin Yasar",
         "avatar_url": "https://avatars.githubusercontent.com/u/86570205?u=32cc67695045a6c305f0c26aecf64a268eb48a64&v=4",
         "html_url": "https://github.com/seckinyasar"
-      },
-      {
-        "login": "helallao",
-        "name": "Ali Ya\u015far",
-        "avatar_url": "https://avatars.githubusercontent.com/u/78656003?u=9c23d9553d718cf878b1543db64409aef98219d1&v=4",
-        "html_url": "https://github.com/helallao"
       },
       {
         "login": "Nai64",
@@ -314,7 +308,7 @@
     ]
   },
   "repos_rogerio-jose-gastao_100": {
-    "timestamp": 1790568689.9365802,
+    "timestamp": 1790598287.0069053,
     "ttl": 3600,
     "value": [
       {
