@@ -1,6 +1,6 @@
 {
   "user_stats_rogerio-jose-gastao": {
-    "timestamp": 1790742499.4973726,
+    "timestamp": 1790768216.301844,
     "ttl": 3600,
     "value": {
       "public_repos": 9,
@@ -158,7 +158,7 @@
     ]
   },
   "followers_rogerio-jose-gastao_100": {
-    "timestamp": 1790742500.5684464,
+    "timestamp": 1790768217.4701786,
     "ttl": 3600,
     "value": [
       {
@@ -226,12 +226,6 @@
         "name": "Alp \u20bf\ud83d\udcc8\ud83d\ude80\ud83c\udf15",
         "avatar_url": "https://avatars.githubusercontent.com/u/18186995?u=360d9f1df55afcc7902aa0a24bdf6d9618ea2b5f&v=4",
         "html_url": "https://github.com/IDouble"
-      },
-      {
-        "login": "mustafacagri",
-        "name": "Mustafa \u00c7a\u011fr\u0131 G\u00fcven",
-        "avatar_url": "https://avatars.githubusercontent.com/u/7488394?u=23fe234eaa1a07c7d0f85efba5db98931d0b98da&v=4",
-        "html_url": "https://github.com/mustafacagri"
       },
       {
         "login": "ramin123",
@@ -308,7 +302,7 @@
     ]
   },
   "repos_rogerio-jose-gastao_100": {
-    "timestamp": 1790742500.079201,
+    "timestamp": 1790768216.8136451,
     "ttl": 3600,
     "value": [
       {
