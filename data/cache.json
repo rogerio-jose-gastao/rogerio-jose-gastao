@@ -1,6 +1,6 @@
 {
   "user_stats_rogerio-jose-gastao": {
-    "timestamp": 1790804461.9406638,
+    "timestamp": 1790824387.2088978,
     "ttl": 3600,
     "value": {
       "public_repos": 9,
@@ -158,9 +158,15 @@
     ]
   },
   "followers_rogerio-jose-gastao_100": {
-    "timestamp": 1790804463.3357496,
+    "timestamp": 1790824388.1981122,
     "ttl": 3600,
     "value": [
+      {
+        "login": "Ali-hey-0",
+        "name": "Ali Heydari",
+        "avatar_url": "https://avatars.githubusercontent.com/u/157505360?u=fabc681548190eb3e3815b86e77e7b6dbb0e676b&v=4",
+        "html_url": "https://github.com/Ali-hey-0"
+      },
       {
         "login": "lxlynx",
         "name": "Alexander Cardoza",
@@ -302,7 +308,7 @@
     ]
   },
   "repos_rogerio-jose-gastao_100": {
-    "timestamp": 1790804462.5618587,
+    "timestamp": 1790824387.6278584,
     "ttl": 3600,
     "value": [
       {
