@@ -4,9 +4,7 @@
 
 # Mission
 
-My mission is to engineer systems that amplify human capability.
-
-I work across Artificial Intelligence, Robotics, Photonic Computing and Business Intelligence Systems.
+"My goal is to build quantum platforms that are globally manufacturable and accessible — prioritizing integrated photonics for their scalability via silicon foundries, and neutral atoms for their versatility in simulation. I seek to integrate optical control, AI for calibration, and quantum software into a co-designed system that minimizes the barrier to entry for health/energy/communication applications and more."
 
 Every project contributes to technologies that continue serving people beyond their creators.
 
@@ -22,7 +20,7 @@ Every project contributes to technologies that continue serving people beyond th
 | Research Notes | 531 |
 | Projects | 13 |
 | Languages | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="16" height="16" alt="Rust" /> Rust<br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="16" height="16" alt="Python" /> Python<br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="16" height="16" alt="C" /> C<br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="16" height="16" alt="TypeScript" /> TypeScript<br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mojo/mojo-original.svg" width="16" height="16" alt="Mojo" /> Mojo |
-| Current Focus | Artificial Intelligence<br>Robotics<br>Photonic Quantum Computing |
+| Current Focus | Artificial Intelligence<br>Robotics<br>Quantum Simulation and Computing |
 | Last Update | 2026-10-17 |
 <!--END_SECTION:dashboard-->
 
