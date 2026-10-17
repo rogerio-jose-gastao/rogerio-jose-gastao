@@ -20,7 +20,7 @@ Every project contributes to technologies that continue serving people beyond th
 | Research Notes | 531 |
 | Projects | 13 |
 | Languages | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="16" height="16" alt="Rust" /> Rust<br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="16" height="16" alt="Python" /> Python<br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="16" height="16" alt="C" /> C<br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="16" height="16" alt="TypeScript" /> TypeScript<br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mojo/mojo-original.svg" width="16" height="16" alt="Mojo" /> Mojo |
-| Current Focus | Artificial Intelligence<br>Robotics<br>Quantum Simulation and Computing |
+| Current Focus | Artificial Intelligence<br>Robotics<br>Photonic Quantum Computing |
 | Last Update | 2026-10-17 |
 <!--END_SECTION:dashboard-->
 
