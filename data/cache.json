@@ -1,6 +1,6 @@
 {
   "user_stats_rogerio-jose-gastao": {
-    "timestamp": 1792409842.498411,
+    "timestamp": 1792432749.9228168,
     "ttl": 3600,
     "value": {
       "public_repos": 9,
@@ -158,9 +158,15 @@
     ]
   },
   "followers_rogerio-jose-gastao_100": {
-    "timestamp": 1792409843.743747,
+    "timestamp": 1792432751.2336721,
     "ttl": 3600,
     "value": [
+      {
+        "login": "kpopdev",
+        "name": "Kyla",
+        "avatar_url": "https://avatars.githubusercontent.com/u/28566705?u=f9d7bc81896a62cd52997f2f6b575d575297d878&v=4",
+        "html_url": "https://github.com/kpopdev"
+      },
       {
         "login": "Ali-hey-0",
         "name": "Ali Heydari",
@@ -302,7 +308,7 @@
     ]
   },
   "repos_rogerio-jose-gastao_100": {
-    "timestamp": 1792409843.100724,
+    "timestamp": 1792432750.36863,
     "ttl": 3600,
     "value": [
       {
