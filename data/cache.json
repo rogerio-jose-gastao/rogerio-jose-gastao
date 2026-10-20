@@ -1,6 +1,6 @@
 {
   "user_stats_rogerio-jose-gastao": {
-    "timestamp": 1792464156.6758103,
+    "timestamp": 1792468253.8526452,
     "ttl": 3600,
     "value": {
       "public_repos": 9,
@@ -158,7 +158,7 @@
     ]
   },
   "followers_rogerio-jose-gastao_100": {
-    "timestamp": 1792464157.9975355,
+    "timestamp": 1792468254.8363094,
     "ttl": 3600,
     "value": [
       {
@@ -166,12 +166,6 @@
         "name": "Kyla",
         "avatar_url": "https://avatars.githubusercontent.com/u/28566705?u=f9d7bc81896a62cd52997f2f6b575d575297d878&v=4",
         "html_url": "https://github.com/kpopdev"
-      },
-      {
-        "login": "Ali-hey-0",
-        "name": "Ali Heydari",
-        "avatar_url": "https://avatars.githubusercontent.com/u/157505360?u=fabc681548190eb3e3815b86e77e7b6dbb0e676b&v=4",
-        "html_url": "https://github.com/Ali-hey-0"
       },
       {
         "login": "lxlynx",
@@ -308,7 +302,7 @@
     ]
   },
   "repos_rogerio-jose-gastao_100": {
-    "timestamp": 1792464157.2922394,
+    "timestamp": 1792468254.2156723,
     "ttl": 3600,
     "value": [
       {
@@ -316,7 +310,7 @@
         "description": "My descriptions",
         "language": "Python",
         "stars": 2,
-        "updated_at": "2026-10-19",
+        "updated_at": "2026-10-20",
         "url": "https://github.com/rogerio-jose-gastao/rogerio-jose-gastao"
       },
       {
