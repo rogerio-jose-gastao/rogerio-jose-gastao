@@ -1,6 +1,6 @@
 {
   "user_stats_rogerio-jose-gastao": {
-    "timestamp": 1793628982.5829923,
+    "timestamp": 1793655410.3853645,
     "ttl": 3600,
     "value": {
       "public_repos": 9,
@@ -158,7 +158,7 @@
     ]
   },
   "followers_rogerio-jose-gastao_100": {
-    "timestamp": 1793628983.7210827,
+    "timestamp": 1793655411.810084,
     "ttl": 3600,
     "value": [
       {
@@ -178,12 +178,6 @@
         "name": "Hor\u00e1cio Manuel",
         "avatar_url": "https://avatars.githubusercontent.com/u/145765469?u=3e4f8489eb54c4b254c5da2332eba2e09697ada5&v=4",
         "html_url": "https://github.com/horaciomanuel26"
-      },
-      {
-        "login": "seckinyasar",
-        "name": "Seckin Yasar",
-        "avatar_url": "https://avatars.githubusercontent.com/u/86570205?u=32cc67695045a6c305f0c26aecf64a268eb48a64&v=4",
-        "html_url": "https://github.com/seckinyasar"
       },
       {
         "login": "0Darkn",
@@ -302,7 +296,7 @@
     ]
   },
   "repos_rogerio-jose-gastao_100": {
-    "timestamp": 1793628983.1060417,
+    "timestamp": 1793655411.100074,
     "ttl": 3600,
     "value": [
       {
