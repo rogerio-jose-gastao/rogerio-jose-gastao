@@ -1,6 +1,6 @@
 {
   "user_stats_rogerio-jose-gastao": {
-    "timestamp": 1794113718.6957965,
+    "timestamp": 1794140955.1518407,
     "ttl": 3600,
     "value": {
       "public_repos": 9,
@@ -158,15 +158,9 @@
     ]
   },
   "followers_rogerio-jose-gastao_100": {
-    "timestamp": 1794113719.8146894,
+    "timestamp": 1794140956.1690469,
     "ttl": 3600,
     "value": [
-      {
-        "login": "aixisstudio",
-        "name": "aiXis",
-        "avatar_url": "https://avatars.githubusercontent.com/u/45413729?u=d4abaa1a30106c74ac81f274adf280b12655347d&v=4",
-        "html_url": "https://github.com/aixisstudio"
-      },
       {
         "login": "kpopdev",
         "name": "Kyla",
@@ -296,7 +290,7 @@
     ]
   },
   "repos_rogerio-jose-gastao_100": {
-    "timestamp": 1794113719.1522703,
+    "timestamp": 1794140955.6145525,
     "ttl": 3600,
     "value": [
       {
