@@ -1,6 +1,6 @@
 {
   "user_stats_rogerio-jose-gastao": {
-    "timestamp": 1795452828.3054907,
+    "timestamp": 1795477227.6071868,
     "ttl": 3600,
     "value": {
       "public_repos": 9,
@@ -158,15 +158,9 @@
     ]
   },
   "followers_rogerio-jose-gastao_100": {
-    "timestamp": 1795452829.5913582,
+    "timestamp": 1795477228.9161236,
     "ttl": 3600,
     "value": [
-      {
-        "login": "Lyn231231",
-        "name": "Lyn231231",
-        "avatar_url": "https://avatars.githubusercontent.com/u/346187321?v=4",
-        "html_url": "https://github.com/Lyn231231"
-      },
       {
         "login": "kpopdev",
         "name": "Kyla",
@@ -296,7 +290,7 @@
     ]
   },
   "repos_rogerio-jose-gastao_100": {
-    "timestamp": 1795452828.8937895,
+    "timestamp": 1795477228.275465,
     "ttl": 3600,
     "value": [
       {
